@@ -8,4 +8,4 @@ The topic of the project is on Image Colorization.
 - Sally (Hanqing) Yao (yaohanqi@stanford.edu)
 
 **Original Dataset**:
-- ImageNet:
+- tiny-imagenet-200: http://cs231n.stanford.edu/tiny-imagenet-200.zip (Subset data from ImageNet:https://www.image-net.org/)
