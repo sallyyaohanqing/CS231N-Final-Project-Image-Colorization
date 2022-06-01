@@ -1,6 +1,6 @@
 # CS231N-Final-Project-Image-Colorization
-This folder contains files for CS231N:Deep Learning for Computer Vision course final project.
-The topic of the project is on Image Colorization.
+This folder contains files for CS231N:Deep Learning for Computer Vision course final project.\
+The topic of this project is Image Colorization.
 
 **Contributors**:
 - Yoko Nagafuchi (yokongf@stanford.edu)
