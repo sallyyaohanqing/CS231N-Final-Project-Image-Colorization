@@ -9,3 +9,6 @@ The topic of this project is Image Colorization.
 
 **Original Dataset**:
 - tiny-imagenet-200: http://cs231n.stanford.edu/tiny-imagenet-200.zip (Subset data from ImageNet:https://www.image-net.org/)
+
+**Video Colorization Clip**:
+- Clipped from Mickey Mouse - Mickey's Man Friday - 1935 (HD): https://www.youtube.com/watch?v=fJsSd7Sgx9s&t=393s.
